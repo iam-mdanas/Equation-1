@@ -1,0 +1,6 @@
+{
+  "name": "Equation 1",
+  "description": "Interactive scientific physics and mathematics laboratory: Projectile Motion simulation with analytical trajectory modeling, vector analysis, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
